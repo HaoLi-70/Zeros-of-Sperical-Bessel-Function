@@ -1,3 +1,3 @@
 ./*.DS_Store
-./Src/*.o
-./Zero
+Src/*.o
+Zero
