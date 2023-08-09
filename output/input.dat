@@ -1,0 +1,10 @@
+
+#Input file 
+
+boundary_condition = 1
+
+Zero_L = 60
+
+Zero_N = 60
+
+Path_Output = ./zero_dri
